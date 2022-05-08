@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Calculative geometry.iml" filepath="$PROJECT_DIR$/Calculative geometry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Computational geometry.iml" filepath="$PROJECT_DIR$/Computational geometry.iml" />
     </modules>
   </component>
 </project>
